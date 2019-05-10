@@ -1,0 +1,4 @@
+[13-Dec-2018 20:53:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/redefiu7/public_html/red/wp-content/themes/redefining-health/inc/template-tags.php:121
+Stack trace:
+#0 {main}
+  thrown in /home/redefiu7/public_html/red/wp-content/themes/redefining-health/inc/template-tags.php on line 121
